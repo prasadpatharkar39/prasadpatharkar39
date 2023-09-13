@@ -1,5 +1,6 @@
 
-### <div align="left"><h2>Hi there , I'm Prasad Patharkar 👋</h2></div>  
+### <div align="left"><h2>Welcome to [Prasad Patharkar's] profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+</h2></div>  
 
 <div style="position: relative;">
   <img src="https://i.ibb.co/gvYkqHW/Prasad-Logo.png" alt="Prasad-Logo" border="0" style="width: 100%; z-index: 1;">
