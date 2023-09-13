@@ -1,10 +1,11 @@
-<div align="center">
-<img src="https://drive.google.com/file/d/1YfjDXAzN_KfpEr7Fplab191maSZsLj4J/view?usp=sharing" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">Hi there , I'm Prasad Patharkar 👋</div>  
-  
+
+<div align="center">
+<img src="https://drive.google.com/file/d/1YfjDXAzN_KfpEr7Fplab191maSZsLj4J/view?usp=sharing" align="center" style="width: 100%" />
+</div>  
 
 - 🔭 I’m currently working on [Spring Boot](https://github.com/prasadpatharkar03)  
   
