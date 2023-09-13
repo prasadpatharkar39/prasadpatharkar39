@@ -96,21 +96,9 @@
   
 
 <br/>  
-## 📊 Stats
-
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since Aug 08 2019</b>
-
-📊 <b>This Week I Spent My Time On</b>
-
-<!--START_SECTION:waka-->
-```text
-Java         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-```
-<!--END_SECTION:waka-->
-
 
 ## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prasadpatharkar03&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
