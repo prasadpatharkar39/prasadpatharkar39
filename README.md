@@ -8,7 +8,7 @@
   </div>
 </div>
 
-### Talking about Personal Stuffs:
+## Talking about Personal Stuffs:
 
 - 🔭 I’m currently working on [Spring Boot](https://github.com/prasadpatharkar03)  
   
@@ -20,7 +20,17 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
+
+
+- 📬 How to reach me: [prasadpatharkar39@gmail.com](mailto:prasadpatharkar39@gmail.com)
+
   
+- 📝 [Resume](https://drive.google.com/file/d/1z_NiPl0kCHEKRWYxP_ROhHRXPUi2ry8a/view?usp=drivesdk)
+
+  
+
+  
+
 
 
 <br/>  
