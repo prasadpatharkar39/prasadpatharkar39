@@ -3,7 +3,7 @@
 </h2></div>  
 
 <div style="position: relative;">
-  <img src="https://i.ibb.co/gvYkqHW/Prasad-Logo.png" alt="Prasad-Logo" border="0" style="width: 100%; z-index: 1;">
+  <img src="https://i.ibb.co/gvYkqHW/Prasad-Logo.png" alt="Prasad-Logo" border="0" style="width: 70%; z-index: 1;">
   <div style="position: absolute; top: 0; left: 0; width: 50%; height: 50%; z-index: 2;">
   </div>
 </div>
@@ -104,9 +104,9 @@
 <br/>  
 
 
-## Recent Blog Posts  
+<!--## Recent Blog Posts  --> 
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!--If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. -->
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
@@ -132,4 +132,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
