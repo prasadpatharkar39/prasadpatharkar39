@@ -1,5 +1,5 @@
 
-### <div align="left">Hi there , I'm Prasad Patharkar 👋</div>  
+### <div align="left"><h2>Hi there , I'm Prasad Patharkar 👋</h2></div>  
 
 <div style="position: relative;">
   <img src="https://i.ibb.co/gvYkqHW/Prasad-Logo.png" alt="Prasad-Logo" border="0" style="width: 100%; z-index: 1;">
