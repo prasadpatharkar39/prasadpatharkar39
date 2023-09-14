@@ -25,7 +25,7 @@
 - 📬 How to reach me: [prasadpatharkar39@gmail.com](mailto:prasadpatharkar39@gmail.com)
 
   
-- 📝 [Resume](https://drive.google.com/file/d/1zbr5AZ98TQGE3QQUh0jIpaCEe8gFsNJC/view?usp=drivesdk)
+- 📝 [Resume](https://drive.google.com/file/d/13GnliGFTy9TBdJaDQ2CsGy1NjajVdgjE/view?usp=sharing)
 
   
 
